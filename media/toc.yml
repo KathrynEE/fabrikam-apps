@@ -1,0 +1,28 @@
+- name: Docs Contributor Guide
+  items:
+  - name: Repository-specific guidance
+    items:
+    - name: Azure DevOps
+      items:
+      - name: Track content contributions
+        href: azure-devops-work-item-tracking.md 
+      - name: Content review checklist
+        href: azure-devops-checklist.md 
+      - name: Azure DevOps aliases
+        href: azure-devops-aliases.md
+      - name: Repositories, docsets & owners
+        href: azure-devops-content-areas-and-owners.md
+      - name: Metadata guidance
+        href: azure-devops-metadata.md
+      - name: Publishing workflow
+        href: azure-devops-ops-workflow.md
+      - name: Versioning guidance 
+        href: azure-devops-versioning-monikers.md
+      - name: Tabbed conceptual tags 
+        href: azure-devops-tabbed-conceptual-tags.md
+      - name: Terminology & branding 
+        href: azure-devops-terminology-guidance.md
+      - name: Navigation guidelines
+        href: azure-devops-navigation-guidance.md
+
+
